@@ -1,4 +1,4 @@
-# KELOMPOK3
+# KELOMPOK 6 (KEPEGAWAIAN)
 
 Anngota Kelompok :
 1. 5200411200 Alfandi Yahya Muhaimin
