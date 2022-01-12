@@ -42,12 +42,6 @@ Anngota Kelompok :
       - 3.6 Rancangan Arsitektur Sistem
       - 3.7 Rancangan Interface Halaman
 
-
-# SQL (STRUCTURED QUERY LANGUAGE)
-1. 5200411224 Rizky Ramadhani (Membuat DDL, DML, DCL, TCL)
-2. 5200411232 Rahmita Yida Prihasty (Membuat Laporan SQL)
-
-
 # PROTOTYPE & DESAIN INTERFACE
 1. 5200411200 Alfandi Yahya Muhaimin (Membuat Prototype)
 2. 5200411228 Sri Uszdevita Syardillah Pohan (Membuat Sketsa Interface & IPO)
